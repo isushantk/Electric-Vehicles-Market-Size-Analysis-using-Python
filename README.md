@@ -62,7 +62,7 @@ Exponential Growth Model (SciPy curve_fit):
 ## 🚀 Quick Start
 
 Clone repository
-git clone [https://github.com/yourusername/Electric-Vehicles-Market-Size-Analysis-and-Forecasting.git](https://github.com/isushantk/Electric-Vehicles-Market-Size-Analysis-using-Python)
+git clone (https://github.com/isushantk/Electric-Vehicles-Market-Size-Analysis-using-Python)
 
 Install dependencies
 pip install pandas matplotlib seaborn numpy scipy
